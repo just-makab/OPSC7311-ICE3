@@ -1,0 +1,42 @@
+com.example.ice3.app-activity-1.8.0-0 /Users/lwethusibisi/.gradle/caches/transforms-3/0a1b73dc237c94a4ef08ccb41d889b2a/transformed/activity-1.8.0/res
+com.example.ice3.app-emoji2-1.2.0-1 /Users/lwethusibisi/.gradle/caches/transforms-3/0b136d062eba329da5b1554af0bb80c0/transformed/emoji2-1.2.0/res
+com.example.ice3.app-appcompat-resources-1.6.1-2 /Users/lwethusibisi/.gradle/caches/transforms-3/0e918f765d9a28470d0a451223188fde/transformed/appcompat-resources-1.6.1/res
+com.example.ice3.app-core-ktx-1.13.1-3 /Users/lwethusibisi/.gradle/caches/transforms-3/2b3cd27472cf6bb38cec301f6e7ebd02/transformed/core-ktx-1.13.1/res
+com.example.ice3.app-credentials-1.2.0-rc01-4 /Users/lwethusibisi/.gradle/caches/transforms-3/2de9b2c4accd876d99522e0f5f082506/transformed/credentials-1.2.0-rc01/res
+com.example.ice3.app-core-runtime-2.2.0-5 /Users/lwethusibisi/.gradle/caches/transforms-3/306cca8e48088c2d877c597249c64822/transformed/core-runtime-2.2.0/res
+com.example.ice3.app-play-services-basement-18.3.0-6 /Users/lwethusibisi/.gradle/caches/transforms-3/3094814fbbe8162be0d6a2f3d67b1629/transformed/play-services-basement-18.3.0/res
+com.example.ice3.app-transition-1.5.0-7 /Users/lwethusibisi/.gradle/caches/transforms-3/30c6cd097a9f103cd44957a39a9f7535/transformed/transition-1.5.0/res
+com.example.ice3.app-lifecycle-runtime-2.6.2-8 /Users/lwethusibisi/.gradle/caches/transforms-3/31c0b2a6bcb3372b81f142d2ff7f4f82/transformed/lifecycle-runtime-2.6.2/res
+com.example.ice3.app-firebase-common-21.0.0-9 /Users/lwethusibisi/.gradle/caches/transforms-3/387d2dc56403820b604def0a8808bad0/transformed/firebase-common-21.0.0/res
+com.example.ice3.app-lifecycle-livedata-core-2.6.2-10 /Users/lwethusibisi/.gradle/caches/transforms-3/3e693ce7d89742890e89659b3c00d86e/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.ice3.app-startup-runtime-1.1.1-11 /Users/lwethusibisi/.gradle/caches/transforms-3/400ad0398e9c4f28928a382b4989d12b/transformed/startup-runtime-1.1.1/res
+com.example.ice3.app-appcompat-1.6.1-12 /Users/lwethusibisi/.gradle/caches/transforms-3/4b593059f02bbe3f1a4bbb97fd782b0b/transformed/appcompat-1.6.1/res
+com.example.ice3.app-cardview-1.0.0-13 /Users/lwethusibisi/.gradle/caches/transforms-3/5005524a2dff81b8e95f5aee55dbc2de/transformed/cardview-1.0.0/res
+com.example.ice3.app-annotation-experimental-1.4.0-14 /Users/lwethusibisi/.gradle/caches/transforms-3/6622209b392dacbf830c907f420b04e2/transformed/annotation-experimental-1.4.0/res
+com.example.ice3.app-lifecycle-viewmodel-2.6.2-15 /Users/lwethusibisi/.gradle/caches/transforms-3/6af1463950d5004a41067e88f8b7d524/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.ice3.app-credentials-play-services-auth-1.2.0-rc01-16 /Users/lwethusibisi/.gradle/caches/transforms-3/765606a622baa5ff53ea8ac0e155244b/transformed/credentials-play-services-auth-1.2.0-rc01/res
+com.example.ice3.app-lifecycle-process-2.6.2-17 /Users/lwethusibisi/.gradle/caches/transforms-3/821ea9a4837def00015a5f7bc9b7321d/transformed/lifecycle-process-2.6.2/res
+com.example.ice3.app-drawerlayout-1.1.1-18 /Users/lwethusibisi/.gradle/caches/transforms-3/835ac9f9bbfb75011eed0ac38014a89c/transformed/drawerlayout-1.1.1/res
+com.example.ice3.app-viewpager2-1.0.0-19 /Users/lwethusibisi/.gradle/caches/transforms-3/864a1697afd1bb090572e0f917cac611/transformed/viewpager2-1.0.0/res
+com.example.ice3.app-savedstate-1.2.1-20 /Users/lwethusibisi/.gradle/caches/transforms-3/8c50fe8572848766de05dedf7b195ca0/transformed/savedstate-1.2.1/res
+com.example.ice3.app-coordinatorlayout-1.1.0-21 /Users/lwethusibisi/.gradle/caches/transforms-3/9e9463f3bbf9bfc01243653de47cba7c/transformed/coordinatorlayout-1.1.0/res
+com.example.ice3.app-browser-1.4.0-22 /Users/lwethusibisi/.gradle/caches/transforms-3/9f5e88b7e4b491ba8f9a3da2c90cb849/transformed/browser-1.4.0/res
+com.example.ice3.app-fragment-1.3.6-23 /Users/lwethusibisi/.gradle/caches/transforms-3/a134d560c74f642e167a3f37cb79b6fa/transformed/fragment-1.3.6/res
+com.example.ice3.app-core-1.13.1-24 /Users/lwethusibisi/.gradle/caches/transforms-3/a3a86e13b71c20f5d43b21be27d5bee9/transformed/core-1.13.1/res
+com.example.ice3.app-lifecycle-livedata-2.6.2-25 /Users/lwethusibisi/.gradle/caches/transforms-3/ab3346d5f7fd7a51954ebf8d005e9ce0/transformed/lifecycle-livedata-2.6.2/res
+com.example.ice3.app-constraintlayout-2.1.4-26 /Users/lwethusibisi/.gradle/caches/transforms-3/ac95007187a840bc68f3187f5b161e68/transformed/constraintlayout-2.1.4/res
+com.example.ice3.app-play-services-base-18.0.1-27 /Users/lwethusibisi/.gradle/caches/transforms-3/acc1f55d7013d8bae3f83dcbb8abea66/transformed/play-services-base-18.0.1/res
+com.example.ice3.app-material-1.12.0-28 /Users/lwethusibisi/.gradle/caches/transforms-3/b65af687dc95d5eefc42e70ed5910416/transformed/material-1.12.0/res
+com.example.ice3.app-lifecycle-viewmodel-savedstate-2.6.2-29 /Users/lwethusibisi/.gradle/caches/transforms-3/b8c5e40db48c62209a44a20e465e5b99/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.ice3.app-profileinstaller-1.3.0-30 /Users/lwethusibisi/.gradle/caches/transforms-3/d3582f3a27dcda5bbd2990fe183971c5/transformed/profileinstaller-1.3.0/res
+com.example.ice3.app-recyclerview-1.1.0-31 /Users/lwethusibisi/.gradle/caches/transforms-3/d41b3531ce2aeed18b4852180e568aae/transformed/recyclerview-1.1.0/res
+com.example.ice3.app-play-services-auth-20.7.0-32 /Users/lwethusibisi/.gradle/caches/transforms-3/d6f174d75266e14b940ad95bfd44473f/transformed/play-services-auth-20.7.0/res
+com.example.ice3.app-emoji2-views-helper-1.2.0-33 /Users/lwethusibisi/.gradle/caches/transforms-3/f4272e98e17b16db50a369ee6f175f70/transformed/emoji2-views-helper-1.2.0/res
+com.example.ice3.app-pngs-34 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/generated/res/pngs/debug
+com.example.ice3.app-res-35 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/generated/res/processDebugGoogleServices
+com.example.ice3.app-resValues-36 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/generated/res/resValues/debug
+com.example.ice3.app-packageDebugResources-37 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.ice3.app-packageDebugResources-38 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.ice3.app-debug-39 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.ice3.app-debug-40 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/src/debug/res
+com.example.ice3.app-main-41 /Users/lwethusibisi/Coding Projects/Android Studio Projects/Ice3/app/src/main/res

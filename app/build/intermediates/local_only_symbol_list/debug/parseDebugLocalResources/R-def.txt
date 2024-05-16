@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Password
+id PasswordConfirm
+id inputQualification
+id inputStudentNumber
+id inputUserEmail
+id inputUserName
+id loginButton
+id loginTextView
+id main
+id registerButton
+id scrollView2
+id textView
+layout activity_login
+layout activity_main
+layout activity_register
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style Base.Theme.Ice3
+style Theme.Ice3
+xml backup_rules
+xml data_extraction_rules

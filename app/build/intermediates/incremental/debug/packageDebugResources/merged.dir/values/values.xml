@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ice3</string>
+    <string name="gcm_defaultSenderId" translatable="false">816799314922</string>
+    <string name="google_api_key" translatable="false">AIzaSyBM7E1h5ZDBY0ovWRwPaoVR5WbSXLZVLCU</string>
+    <string name="google_app_id" translatable="false">1:816799314922:android:2179036d5bf3ec2d3d3893</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM7E1h5ZDBY0ovWRwPaoVR5WbSXLZVLCU</string>
+    <string name="google_storage_bucket" translatable="false">ice3-5edfe.appspot.com</string>
+    <string name="project_id" translatable="false">ice3-5edfe</string>
+    <style name="Base.Theme.Ice3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Ice3" parent="Base.Theme.Ice3"/>
+</resources>
